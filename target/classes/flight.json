@@ -1,0 +1,37 @@
+[
+    {
+        "flightId": 0,
+        "flightNumber": 7509,
+        "departureAirportIATACode": "YYT",
+        "arrivalAirportIATACode": "GDN",
+        "departureDate": "2015-12-20T07:32:31 -01:00"
+    },
+    {
+        "flightId": 1,
+        "flightNumber": 5510,
+        "departureAirportIATACode": "YYZ",
+        "arrivalAirportIATACode": "MIT",
+        "departureDate": "2020-04-28T04:00:37 -02:00"
+    },
+    {
+        "flightId": 2,
+        "flightNumber": 3913,
+        "departureAirportIATACode": "SEA",
+        "arrivalAirportIATACode": "GDN",
+        "departureDate": "2015-03-08T12:12:40 -01:00"
+    },
+    {
+        "flightId": 3,
+        "flightNumber": 8081,
+        "departureAirportIATACode": "YYT",
+        "arrivalAirportIATACode": "PPX",
+        "departureDate": "2018-05-06T07:17:19 -02:00"
+    },
+    {
+        "flightId": 4,
+        "flightNumber": 5971,
+        "departureAirportIATACode": "ANC",
+        "arrivalAirportIATACode": "KRK",
+        "departureDate": "2015-04-08T06:14:39 -02:00"
+    }
+]
